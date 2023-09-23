@@ -485,3 +485,6 @@ $RECYCLE.BIN/
 
 # Db
 data/
+
+# Gatling
+tests/stress-test/gatling/
